@@ -1,0 +1,8 @@
+[package]
+name = "git-repo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+git2 = "0.14.3"
+webbrowser = "0.7.1"
