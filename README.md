@@ -1,4 +1,5 @@
 # Git Utils
+[![Test](https://github.com/WsCandy/git-utils/actions/workflows/rust.yml/badge.svg)](https://github.com/WsCandy/git-utils/actions/workflows/rust.yml)
 
 Git Utils is a selection of utilities made to make day-to-day use of Git slightly more convenient. These utilities aim to automate tasks I find myself repeatedly performing on a daily basis.
 
