@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/WsCandy/git-utils/git-repo"
 readme = "README.md"
+description = "The git-repo subcommand is simple, it will attempt to open the location of your remote repository in your web browser."
 
 [dependencies]
 git2 = "0.14.3"
